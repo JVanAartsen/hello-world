@@ -2,5 +2,6 @@
 My first repository, Hello World
 
 
-I'm learning how to use GitHub dude its super chill!
+I changed the README again just to get used to Pull Requests and stuff
 
+Welcome to the Helo World readme!
